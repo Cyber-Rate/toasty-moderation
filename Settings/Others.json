@@ -1,0 +1,21 @@
+{
+ 
+"Colors":{
+ "positive":"228B22",
+ "negative":"FF0000",
+ "notr":"808080"
+},
+    
+"Emojis":{
+ "Off_Mic": ":microphone2:",
+
+ "Check_Tick": "<a:cyber_onay:854402420121403402>",
+
+ "Red_Tick": "<a:cyber_iptal:854402422394847232>",
+
+ "dnd": "<:cyber_dnd:854402428261367822>",
+ "online": "<:cyber_online:854402424265506826>",
+ "offline": "<:cyber_offline:854402435107782666>",
+ "idle": "<:cyber_away:857311498648420402>"
+}
+}

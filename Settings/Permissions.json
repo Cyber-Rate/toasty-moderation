@@ -1,0 +1,47 @@
+
+{
+ "Commander": "866062113469628477",
+ "Ust_Yetkili": "866062112878231592",
+ "Yetkili": "873617374916526120",
+ "Sahip": "866062098245484564",
+ "Trident": "866062112878231592",
+ "TMazaretli": "873614427788836944",
+ "İzinli": "873614536089960468",
+
+
+"Ban": {
+  "Auth_Roles": "857310716176498739",
+  "GIF": "https://tenor.com/view/sweet-anita-sweet-anita-banned-ban-gif-17664332"
+},
+"Chat_Mute": {
+ "Auth_Roles": ["866062115655385149"]
+
+},
+
+"Voice_Mute": {
+ "Auth_Roles": ["866062115655385149"]
+
+},
+
+"Jail": {
+ "Auth_Roles": "866062115194535956" 
+
+},
+
+"Register": {
+ "Auth_Roles": "866062113469628477"
+},
+
+"Warn": {
+ "Auth_Roles": "866062115194535956"
+},
+
+"Transport": {
+ "Auth_Roles": "866062114489761802"
+},
+
+"Terapi": {
+ "Auth_Roles": "873618320304250952"
+}
+
+}
